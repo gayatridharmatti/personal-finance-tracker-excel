@@ -20,7 +20,7 @@ This project analyzes personal income and expenses to understand spending patter
 
 \## 📊 Dataset
 
-A self-created dataset containing 45+ financial transactions including income and expenses across different categories.
+A self-created dataset containing 40+ financial transactions including income and expenses across different categories.
 
 
 
@@ -59,6 +59,10 @@ A self-created dataset containing 45+ financial transactions including income an
 
 
 \## 📷 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
 
 
 
